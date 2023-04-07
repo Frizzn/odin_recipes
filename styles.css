@@ -1,0 +1,36 @@
+.title {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.description {
+    font-size: 18px;
+    color: red;
+    
+}
+
+.ingredients {
+    font-size: 30px;
+    color: red;
+}
+
+ul {
+    background-color: aqua;
+}
+
+ol {
+    background-color: brown;
+}
+
+button {
+    background-color: white;
+    font-size: 10px;
+}
+
+body {
+    background-image: url(images/ChickenAlfredoBakeV2-1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
